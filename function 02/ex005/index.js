@@ -1,3 +1,5 @@
+// Golf Code
+
 var names = ["Hole-in-one", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go home"]
 function golfScore(par, strokes) {
     if (strokes == 1) {
